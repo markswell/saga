@@ -1,0 +1,6 @@
+spring:
+  application:
+  name: sale-service
+  jpa:
+    hibernate:
+      ddl-auto: create
